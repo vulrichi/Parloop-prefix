@@ -1,0 +1,2 @@
+./prefixsum: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./prefixsum)
+./prefixsum: /lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found (required by ./prefixsum)
